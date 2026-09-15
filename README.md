@@ -6,7 +6,7 @@ Official code repository for **HiFun: A Hierarchical Framework for Efficient Fun
 
 **Code is coming soon.** This repository will host the official implementation. Star this repository to bookmark the project ahead of the release.
 
-[Project website](https://hifun-cfu.pages.dev/)
+[Project website](https://hly-123.github.io/HiFun/)
 
 HiFun learns contact-aware hand skills with residual reinforcement learning and coordinates arm motion and skill activation through real-world human-in-the-loop learning.
 
