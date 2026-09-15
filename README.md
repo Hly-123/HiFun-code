@@ -2,6 +2,8 @@
 
 Official code repository for **HiFun: A Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning**, accepted to **CoRL 2026**.
 
+![HiFun teaser: six functional dexterous tasks, two dexterous hands, and the hierarchical skill-and-coordination framework.](assets/teaser.png)
+
 **Code is coming soon.** This repository will host the official implementation. Star this repository to bookmark the project ahead of the release.
 
 [Project website](https://hifun-cfu.pages.dev/)
