@@ -20,8 +20,11 @@ HiFun learns contact-aware hand skills with residual reinforcement learning and 
 
 ```bibtex
 @inproceedings{huang2026hifun,
-  title = {HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning},
-  author = {Huang, Linyi and Huai, Guowei and Liu, Weibin and Jiang, Shulong and Tan, Ping and Zhang, Hui and Song, Jie},
+  title = {HiFun: a Hierarchical Framework for Efficient
+           Functional Dexterous Manipulation Learning},
+  author = {Huang, Linyi and Huai, Guowei and Liu, Weibin and
+            Jiang, Shulong and Tan, Ping and Zhang, Weixuan and
+            Zhang, Hui and Song, Jie},
   booktitle = {Conference on Robot Learning (CoRL)},
   year = {2026}
 }
